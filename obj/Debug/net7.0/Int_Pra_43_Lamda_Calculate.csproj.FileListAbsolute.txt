@@ -1,0 +1,15 @@
+/Users/davidsmith/Desktop/Repos/Int_Pra_43_Lamda_Calculate/Int_Pra_43_Lamda_Calculate/obj/Debug/net7.0/Int_Pra_43_Lamda_Calculate.csproj.AssemblyReference.cache
+/Users/davidsmith/Desktop/Repos/Int_Pra_43_Lamda_Calculate/Int_Pra_43_Lamda_Calculate/obj/Debug/net7.0/Int_Pra_43_Lamda_Calculate.GeneratedMSBuildEditorConfig.editorconfig
+/Users/davidsmith/Desktop/Repos/Int_Pra_43_Lamda_Calculate/Int_Pra_43_Lamda_Calculate/obj/Debug/net7.0/Int_Pra_43_Lamda_Calculate.AssemblyInfoInputs.cache
+/Users/davidsmith/Desktop/Repos/Int_Pra_43_Lamda_Calculate/Int_Pra_43_Lamda_Calculate/obj/Debug/net7.0/Int_Pra_43_Lamda_Calculate.AssemblyInfo.cs
+/Users/davidsmith/Desktop/Repos/Int_Pra_43_Lamda_Calculate/Int_Pra_43_Lamda_Calculate/obj/Debug/net7.0/Int_Pra_43_Lamda_Calculate.csproj.CoreCompileInputs.cache
+/Users/davidsmith/Desktop/Repos/Int_Pra_43_Lamda_Calculate/Int_Pra_43_Lamda_Calculate/bin/Debug/net7.0/Int_Pra_43_Lamda_Calculate
+/Users/davidsmith/Desktop/Repos/Int_Pra_43_Lamda_Calculate/Int_Pra_43_Lamda_Calculate/bin/Debug/net7.0/Int_Pra_43_Lamda_Calculate.deps.json
+/Users/davidsmith/Desktop/Repos/Int_Pra_43_Lamda_Calculate/Int_Pra_43_Lamda_Calculate/bin/Debug/net7.0/Int_Pra_43_Lamda_Calculate.runtimeconfig.json
+/Users/davidsmith/Desktop/Repos/Int_Pra_43_Lamda_Calculate/Int_Pra_43_Lamda_Calculate/bin/Debug/net7.0/Int_Pra_43_Lamda_Calculate.dll
+/Users/davidsmith/Desktop/Repos/Int_Pra_43_Lamda_Calculate/Int_Pra_43_Lamda_Calculate/bin/Debug/net7.0/Int_Pra_43_Lamda_Calculate.pdb
+/Users/davidsmith/Desktop/Repos/Int_Pra_43_Lamda_Calculate/Int_Pra_43_Lamda_Calculate/obj/Debug/net7.0/Int_Pra_43_Lamda_Calculate.dll
+/Users/davidsmith/Desktop/Repos/Int_Pra_43_Lamda_Calculate/Int_Pra_43_Lamda_Calculate/obj/Debug/net7.0/refint/Int_Pra_43_Lamda_Calculate.dll
+/Users/davidsmith/Desktop/Repos/Int_Pra_43_Lamda_Calculate/Int_Pra_43_Lamda_Calculate/obj/Debug/net7.0/Int_Pra_43_Lamda_Calculate.pdb
+/Users/davidsmith/Desktop/Repos/Int_Pra_43_Lamda_Calculate/Int_Pra_43_Lamda_Calculate/obj/Debug/net7.0/Int_Pra_43_Lamda_Calculate.genruntimeconfig.cache
+/Users/davidsmith/Desktop/Repos/Int_Pra_43_Lamda_Calculate/Int_Pra_43_Lamda_Calculate/obj/Debug/net7.0/ref/Int_Pra_43_Lamda_Calculate.dll
